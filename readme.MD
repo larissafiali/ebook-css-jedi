@@ -3,7 +3,7 @@
 
 
 ### Clique aqui para ler o ebook 📖:
-- [ Ebook CSS Jedi ](<../ebook - css jedi 3.pdf>)
+- [Ebook CSS Jedi](./ebook/ebook-css-jedi)
 
 
 
